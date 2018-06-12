@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sites>    
+    <site>
+        <title>Viten</title>
+        <nrkUrl>http://localhost/Kriketo/rss-1/xml/rss.rss</nrkUrl>
+    </site> 
+    <site>
+        <title>Sport</title>
+		<nrkUrl>http://localhost/Kriketo/rss-1/xml/rss.rss</nrkUrl>
+    </site>
+    <site>
+        <title>Kultur</title>
+		<nrkUrl>http://localhost/Kriketo/rss-1/xml/rss.rss</nrkUrl>
+    </site>
+</sites>

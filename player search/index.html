@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Player Search</title>
+	<script type="text/javascript" src="src/search.js"></script>
+	<link rel="stylesheet" type="text/css" href="src/style.css">
+</head>
+<body>
+
+<input type="text" name="PlayerName" id="PlayerName">
+<input type="submit" value="Click To Search" onclick="obj.sendRequest()">
+
+<div class="PlayerData" id="PlayerData">
+	<table style="width:100%">
+		<tr>
+			<td id="Name"></td>
+		</tr>
+		<tr>
+			<td id="team"></td>
+		</tr>
+		<tr>
+			<td id="clubs"></td>
+		</tr>
+		<tr>
+			<td id="description"></td>
+		</tr>
+	</table>
+</body>
+</html>
